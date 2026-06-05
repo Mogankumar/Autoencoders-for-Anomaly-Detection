@@ -15,8 +15,8 @@ Unsupervised anomaly detection on AWS EC2 CPU utilization using a deep autoencod
 
 1. **Clone the repo**
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Mogankumar/Autoencoders-for-Anomaly-Detection.git
+   cd Autoencoders-for-Anomaly-Detection
 ```
 
 2. **Create a virtual environment**
